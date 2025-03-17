@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "SYlgvL+uwmSatLoNajWNopPmuwK5bMSax1d2XvZmj8o=",
+  "Source": "my-dotnet-webpage",
+  "BasePath": "_content/my-dotnet-webpage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "my-dotnet-webpage\\wwwroot",
+      "Source": "my-dotnet-webpage",
+      "ContentRoot": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\",
+      "BasePath": "_content/my-dotnet-webpage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\css\\site.css",
+      "SourceId": "my-dotnet-webpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\",
+      "BasePath": "_content/my-dotnet-webpage",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "il7vj3w9my",
+      "Integrity": "yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\js\\site.js",
+      "SourceId": "my-dotnet-webpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\",
+      "BasePath": "_content/my-dotnet-webpage",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ad4azo85lt",
+      "Integrity": "nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.il7vj3w9my.css",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "il7vj3w9my"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.ad4azo85lt.js",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ad4azo85lt"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y="
+        }
+      ]
+    }
+  ]
+}

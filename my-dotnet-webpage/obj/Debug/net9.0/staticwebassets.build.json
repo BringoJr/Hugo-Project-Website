@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "qgIsX2BtTaXLAsRM0/LpMa5rgcwVzHzmjBz5rhsdapc=",
+  "Source": "my-dotnet-webpage",
+  "BasePath": "_content/my-dotnet-webpage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "my-dotnet-webpage\\wwwroot",
+      "Source": "my-dotnet-webpage",
+      "ContentRoot": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\",
+      "BasePath": "_content/my-dotnet-webpage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\obj\\Debug\\net9.0\\compressed\\gmoypm5grq-ad4azo85lt.gz",
+      "SourceId": "my-dotnet-webpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/my-dotnet-webpage",
+      "RelativePath": "js/site#[.{fingerprint=ad4azo85lt}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\js\\site.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tj9lf687i9",
+      "Integrity": "Z1VuduL80k3z9cm7uLD9pc/YQxZEHWTOlieTDaa2mKA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\obj\\Debug\\net9.0\\compressed\\vz1ds641yd-il7vj3w9my.gz",
+      "SourceId": "my-dotnet-webpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/my-dotnet-webpage",
+      "RelativePath": "css/site#[.{fingerprint=il7vj3w9my}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9mmsogsq9n",
+      "Integrity": "fwaNYLGqRnaVyHVID2PWOc3eXVc75VVh0LTRBDKBg04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\css\\site.css",
+      "SourceId": "my-dotnet-webpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\",
+      "BasePath": "_content/my-dotnet-webpage",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "il7vj3w9my",
+      "Integrity": "yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\js\\site.js",
+      "SourceId": "my-dotnet-webpage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\",
+      "BasePath": "_content/my-dotnet-webpage",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ad4azo85lt",
+      "Integrity": "nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\obj\\Debug\\net9.0\\compressed\\vz1ds641yd-il7vj3w9my.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003831417625"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fwaNYLGqRnaVyHVID2PWOc3eXVc75VVh0LTRBDKBg04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\obj\\Debug\\net9.0\\compressed\\vz1ds641yd-il7vj3w9my.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fwaNYLGqRnaVyHVID2PWOc3eXVc75VVh0LTRBDKBg04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fwaNYLGqRnaVyHVID2PWOc3eXVc75VVh0LTRBDKBg04="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.il7vj3w9my.css",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\obj\\Debug\\net9.0\\compressed\\vz1ds641yd-il7vj3w9my.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003831417625"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fwaNYLGqRnaVyHVID2PWOc3eXVc75VVh0LTRBDKBg04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "il7vj3w9my"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.il7vj3w9my.css",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "il7vj3w9my"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yqgStP3/Vh/viyAEd++3DQqa5l8Dkfa5kZpFfW7U9dw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.il7vj3w9my.css.gz",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\obj\\Debug\\net9.0\\compressed\\vz1ds641yd-il7vj3w9my.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fwaNYLGqRnaVyHVID2PWOc3eXVc75VVh0LTRBDKBg04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "il7vj3w9my"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fwaNYLGqRnaVyHVID2PWOc3eXVc75VVh0LTRBDKBg04="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.ad4azo85lt.js",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\obj\\Debug\\net9.0\\compressed\\gmoypm5grq-ad4azo85lt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.016129032258"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z1VuduL80k3z9cm7uLD9pc/YQxZEHWTOlieTDaa2mKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ad4azo85lt"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.ad4azo85lt.js",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ad4azo85lt"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.ad4azo85lt.js.gz",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\obj\\Debug\\net9.0\\compressed\\gmoypm5grq-ad4azo85lt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z1VuduL80k3z9cm7uLD9pc/YQxZEHWTOlieTDaa2mKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ad4azo85lt"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z1VuduL80k3z9cm7uLD9pc/YQxZEHWTOlieTDaa2mKA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\obj\\Debug\\net9.0\\compressed\\gmoypm5grq-ad4azo85lt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.016129032258"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z1VuduL80k3z9cm7uLD9pc/YQxZEHWTOlieTDaa2mKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "C:\\Users\\hugob\\OneDrive\\Documents\\GitHub\\Hugo-Project-Website\\my-dotnet-webpage\\obj\\Debug\\net9.0\\compressed\\gmoypm5grq-ad4azo85lt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z1VuduL80k3z9cm7uLD9pc/YQxZEHWTOlieTDaa2mKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 17:00:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z1VuduL80k3z9cm7uLD9pc/YQxZEHWTOlieTDaa2mKA="
+        }
+      ]
+    }
+  ]
+}

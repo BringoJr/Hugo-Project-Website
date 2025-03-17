@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/my-dotnet-webpage/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yqgStP3/Vh/viyAEd\u002B\u002B3DQqa5l8Dkfa5kZpFfW7U9dw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"560"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022yqgStP3/Vh/viyAEd\u002B\u002B3DQqa5l8Dkfa5kZpFfW7U9dw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 17 Mar 2025 17:00:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/my-dotnet-webpage/css/site.il7vj3w9my.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"il7vj3w9my"},{"Name":"integrity","Value":"sha256-yqgStP3/Vh/viyAEd\u002B\u002B3DQqa5l8Dkfa5kZpFfW7U9dw="},{"Name":"label","Value":"_content/my-dotnet-webpage/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"560"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022yqgStP3/Vh/viyAEd\u002B\u002B3DQqa5l8Dkfa5kZpFfW7U9dw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 17 Mar 2025 17:00:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/my-dotnet-webpage/js/site.ad4azo85lt.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ad4azo85lt"},{"Name":"integrity","Value":"sha256-nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y="},{"Name":"label","Value":"_content/my-dotnet-webpage/js/site.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y=\u0022"},{"Name":"Last-Modified","Value":"Mon, 17 Mar 2025 17:00:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/my-dotnet-webpage/js/site.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"41"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022nlfwmETQ5M8tkx7Q6WgTn54VbLI7g3Aw7ugoIbN4l5Y=\u0022"},{"Name":"Last-Modified","Value":"Mon, 17 Mar 2025 17:00:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
