@@ -24,7 +24,6 @@ C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\
 C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\obj\Debug\net9.0\my-dotnet-webpage.RazorAssemblyInfo.cs
 C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\obj\Debug\net9.0\my-dotnet-webpage.sourcelink.json
 C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\obj\Debug\net9.0\scopedcss\bundle\my-dotnet-webpage.styles.css
-C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\obj\Debug\net9.0\compressed\vz1ds641yd-il7vj3w9my.gz
 C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\obj\Debug\net9.0\compressed\gmoypm5grq-ad4azo85lt.gz
 C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\obj\Debug\net9.0\staticwebassets.development.json
@@ -41,3 +40,4 @@ C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\
 C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\obj\Debug\net9.0\my-dotnet-webpage.pdb
 C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\obj\Debug\net9.0\my-dotnet-webpage.genruntimeconfig.cache
 C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\obj\Debug\net9.0\ref\my-dotnet-webpage.dll
+C:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\obj\Debug\net9.0\compressed\vz1ds641yd-4mid9nvjdk.gz

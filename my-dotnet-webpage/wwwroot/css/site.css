@@ -1,8 +1,16 @@
+/* filepath: c:\Users\hugob\OneDrive\Documents\GitHub\Hugo-Project-Website\my-dotnet-webpage\wwwroot\css\site.css */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #2e647d;
+    display: flex;
+    flex-direction: column;
 }
 
 header {
@@ -22,11 +30,15 @@ h1 {
     overflow: hidden;
 }
 
+main {
+    flex: 1;
+}
+
 footer {
-    background: #35424a;
+    background-color: #000000;
     color: #ffffff;
+    padding: 1rem;
     text-align: center;
-    padding: 10px 0;
     position: relative;
     bottom: 0;
     width: 100%;
@@ -39,4 +51,11 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+nav {
+    background: #4c6270;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
 }
